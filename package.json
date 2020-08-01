@@ -67,7 +67,7 @@
     "sinon": "sinonjs/sinon#a97374641599ed2f451e9a22f784060cf7a38b3e",
     "uglifyjs": "^2.4.10",
     "webpack": "^1.12.2",
-    "webpack-dev-server": "^1.12.1"
+    "webpack-dev-server": "^3.1.11"
   },
   "dependencies": {
     "algoliasearch": "^3.9.1",
