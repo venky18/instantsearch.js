@@ -55,7 +55,7 @@
     "mocha-jsdom": "^1.0.0",
     "mversion": "^1.10.1",
     "nd": "^1.2.0",
-    "node-sass": "^3.3.3",
+    "node-sass": "^4.13.1",
     "npm-shrinkwrap": "^200.4.0",
     "postcss-cli": "^2.3.2",
     "pretty-bytes": "^2.0.1",
